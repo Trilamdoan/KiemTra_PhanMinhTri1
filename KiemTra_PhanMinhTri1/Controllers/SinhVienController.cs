@@ -7,6 +7,7 @@ using KiemTra_PhanMinhTri1.Models;
 
 namespace KiemTra_PhanMinhTri1.Controllers
 {
+    //update
     public class SinhVienController : Controller
     {
         DataDataContext data = new DataDataContext();
